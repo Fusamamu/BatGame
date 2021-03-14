@@ -106,10 +106,10 @@
 			isa = PBXGroup;
 			children = (
 				AEAE148E229ED19900A2F584 /* Bats.atlas */,
-				AEAE145A229ED0ED00A2F584 /* AppDelegate.swift */,
 				AEAE145C229ED0ED00A2F584 /* GameScene.sks */,
 				AEAE145E229ED0ED00A2F584 /* Actions.sks */,
 				AEAE1460229ED0ED00A2F584 /* GameScene.swift */,
+				AEAE145A229ED0ED00A2F584 /* AppDelegate.swift */,
 				AEAE1462229ED0ED00A2F584 /* GameViewController.swift */,
 				AEAE1464229ED0ED00A2F584 /* Main.storyboard */,
 				AEAE1467229ED0EE00A2F584 /* Assets.xcassets */,
